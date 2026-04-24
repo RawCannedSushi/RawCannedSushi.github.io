@@ -1,0 +1,28 @@
+h1 {
+    font-size: 2em;
+    text-align: left;
+    margin-bottom: 20px;
+    color: hsl(163, 86%, 50%)
+}
+table tr th {
+    background-color: hsl(163, 86%, 50%);
+    padding: 10px;
+    border: 5px solid black;
+    text-align: left
+}
+table tr td {
+    background-color: hsl(163, 76%, 25%);
+    padding: 10px;
+    border: 5px solid black;
+    text-align: center;
+}
+table tr td:hover {
+    background-color: hsl(168, 86%, 50%);
+    color: black;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+table {
+    border: 5px solid black;
+    width: 100%;
+}
