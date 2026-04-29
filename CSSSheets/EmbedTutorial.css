@@ -19,8 +19,8 @@
     text-align: center;
 }
 .Tutorial img {
-    width: 100%;
-    height: 100%;
+    max-width: 25%;
+    max-height: 25%;
     object-fit: cover;
 }
 div .ExampleVideo {
