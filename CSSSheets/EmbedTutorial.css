@@ -19,9 +19,9 @@
     text-align: center;
 }
 .Tutorial img {
-    max-width: 25%;
-    max-height: 25%;
-    object-fit: cover;
+    width: 25%;
+    height: 25%;
+    object-fit: contain;
 }
 div .ExampleVideo {
     background-color: rgb(90, 172, 172);
