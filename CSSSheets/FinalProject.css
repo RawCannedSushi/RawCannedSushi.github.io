@@ -255,6 +255,7 @@ body {
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
   margin-bottom: 20px;
   color: rgb(101, 94, 94);
+  overflow: auto;
 }
 .Blog-content img {
   max-width: 200px;
@@ -267,7 +268,8 @@ body {
 }
 .Blog-content h2 {
   margin-top: 0;
-  color: rgb(101, 94, 94)
+  color: rgb(101, 94, 94);
+  clear: both;
 }
 table, th, td {
   border: 3px solid rgba(0, 0, 0, 0.35);
